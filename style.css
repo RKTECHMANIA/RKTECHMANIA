@@ -150,6 +150,7 @@ section{
 
 .hero-info{
     margin-top: 3rem;
+    margin: 100%
 }
 
 .hero-info h3{
@@ -1097,4 +1098,5 @@ footer{
         width: 100%;
         padding: 13px;
     }
+
 }
