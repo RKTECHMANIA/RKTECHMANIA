@@ -37,7 +37,7 @@ Improving logic, system design, and clean code practices
 
 📫 Contact
 
-Email: your-rishabarora1111@gmail.com
+Email: rishabarora1111@gmail.com
 Instagram: @rishabarora1999
 
 GitHub: You’re already here 😄
