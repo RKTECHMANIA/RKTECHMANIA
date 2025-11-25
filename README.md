@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/02uf2QK.gif" width="100%" alt="Developer Banner"/>
-</p>
+
 
 👋 Hi, I’m Rishabh Arora
 Tech Learner • Developer • Cybersecurity Enthusiast • Manager at Jain Power Corp
